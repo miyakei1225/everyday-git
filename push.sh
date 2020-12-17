@@ -1,5 +1,5 @@
 #!/bin/sh
-cd ~/PushGit/
+cd /PushGit/
 echo "." >> README.md
 git add .
 git commit -m '.'
